@@ -4,6 +4,7 @@
   "description": "",
   "main": "devtools.js",
   "scripts": {
+    "build": "browserify panel.js -t babelify --outfile build/panel.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
