@@ -1,0 +1,12 @@
+{
+  "name": "Hello, world",
+  "version": "1.0.2",
+  "manifest_version": 2,
+  "description": "Crappy ES6 Console",
+  "devtools_page": "devtools.html",
+  "permissions": [
+    "tabs",
+    "http://*/*",
+    "https://*/*"
+  ]
+}
