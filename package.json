@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babel": "^4.6.0",
-    "babelify": "^5.0.3",
-    "browserify": "^9.0.3"
+    "babel": "^6.23.0",
+    "babelify": "^7.3.0",
+    "browserify": "^14.3.0"
   }
 }
